@@ -30,26 +30,26 @@ Follow these steps to execute the notebook:
 
 ## Notebook Index
 ***Kaggle:*** Chess Evaluations  
-- 1. Problem definition  
-- 2. Data collection  
-- 3. Data preprocessing  
-  - 3.1 Missing Data  
-  - 3.2 Data Conversion  
-  - 3.3 Data Normalization  
-  - 3.4 Feature extraction  
-    - 3.4.1 Information in the FEN Notation  
-    - 3.4.2 Information from the Game Position (General)  
-    - 3.4.3 Information that Stockfish uses (Simplified)  
-  - 3.5 Feature selection  
-- 4. EDA (exploratory data analysis)  
-- 5. Model selection  
-- 6. Model training and testing  
-  - 6.1 Metric selection  
-  - 6.2 Hyperparameter Tuning  
-- 7. Model evaluation  
-  - 7.1 XGBRegressor - Ensemble  
-  - 7.2 KerasRegressor - Neural Network (Tensorflow)  
-  - 7.3 Analysis of Results  
-- 8. Conclusion  
-- References  
-  - Additional Resources  
+1. Problem definition  
+2. Data collection  
+3. Data preprocessing  
+  3.1 Missing Data  
+  3.2 Data Conversion  
+  3.3 Data Normalization  
+  3.4 Feature extraction  
+    3.4.1 Information in the FEN Notation  
+    3.4.2 Information from the Game Position (General)  
+    3.4.3 Information that Stockfish uses (Simplified)  
+  3.5 Feature selection  
+4. EDA (exploratory data analysis)  
+5. Model selection  
+6. Model training and testing  
+  6.1 Metric selection  
+  6.2 Hyperparameter Tuning  
+7. Model evaluation  
+  7.1 XGBRegressor Ensemble  
+  7.2 KerasRegressor Neural Network (Tensorflow)  
+  7.3 Analysis of Results  
+8. Conclusion  
+References  
+  Additional Resources   
