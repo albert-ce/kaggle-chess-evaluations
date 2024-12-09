@@ -29,27 +29,27 @@ Follow these steps to execute the notebook:
    ```  
 
 ## Notebook Index
-- [***Kaggle:*** Chess Evaluations](./Kaggle%20-%20Chess%20Evaluations.ipynb#***kaggle:***-chess-evaluations)  
-- [1. Problem definition](./Kaggle%20-%20Chess%20Evaluations.ipynb#1.-problem-definition)  
-- [2. Data collection](./Kaggle%20-%20Chess%20Evaluations.ipynb#2.-data-collection)  
-- [3. Data preprocessing](./Kaggle%20-%20Chess%20Evaluations.ipynb#3.-data-preprocessing)  
-  - [3.1 Missing Data](./Kaggle%20-%20Chess%20Evaluations.ipynb#3.1-missing-data)  
-  - [3.2 Data Conversion](./Kaggle%20-%20Chess%20Evaluations.ipynb#3.2-data-conversion)  
-  - [3.3 Data Normalization](./Kaggle%20-%20Chess%20Evaluations.ipynb#3.3-data-normalization)  
-  - [3.4 Feature extraction](./Kaggle%20-%20Chess%20Evaluations.ipynb#3.4-feature-extraction)  
-    - [3.4.1 Information in the FEN Notation](./Kaggle%20-%20Chess%20Evaluations.ipynb#3.4.1-information-in-the-fen-notation)  
-    - [3.4.2 Information from the Game Position (General)](./Kaggle%20-%20Chess%20Evaluations.ipynb#3.4.2-information-from-the-game-position-(general))  
-    - [3.4.3 Information that Stockfish uses (Simplified)](./Kaggle%20-%20Chess%20Evaluations.ipynb#3.4.3-information-that-stockfish-uses-(simplified))  
-  - [3.5 Feature selection](./Kaggle%20-%20Chess%20Evaluations.ipynb#3.5-feature-selection)  
-- [4. EDA (exploratory data analysis)](./Kaggle%20-%20Chess%20Evaluations.ipynb#4.-eda-(exploratory-data-analysis))  
-- [5. Model selection](./Kaggle%20-%20Chess%20Evaluations.ipynb#5.-model-selection)  
-- [6. Model training and testing](./Kaggle%20-%20Chess%20Evaluations.ipynb#6.-model-training-and-testing)  
-  - [6.1 Metric selection](./Kaggle%20-%20Chess%20Evaluations.ipynb#6.1-metric-selection)  
-  - [6.2 Hyperparameter Tuning](./Kaggle%20-%20Chess%20Evaluations.ipynb#6.2-hyperparameter-tuning)  
-- [7. Model evaluation](./Kaggle%20-%20Chess%20Evaluations.ipynb#7.-model-evaluation)  
-  - [7.1 XGBRegressor - Ensemble](./Kaggle%20-%20Chess%20Evaluations.ipynb#7.1-xgbregressor---ensemble)  
-  - [7.2 KerasRegressor - Neural Network (Tensorflow)](./Kaggle%20-%20Chess%20Evaluations.ipynb#7.2-kerasregressor---neural-network-(tensorflow))  
-  - [7.3 Analysis of Results](./Kaggle%20-%20Chess%20Evaluations.ipynb#7.3-analysis-of-results)  
-- [8. Conclusion](./Kaggle%20-%20Chess%20Evaluations.ipynb#8.-conclusion)  
-- [References](./Kaggle%20-%20Chess%20Evaluations.ipynb#references)  
-  - [Additional Resources](./Kaggle%20-%20Chess%20Evaluations.ipynb#additional-resources)  
+***Kaggle:*** Chess Evaluations  
+- 1. Problem definition  
+- 2. Data collection  
+- 3. Data preprocessing  
+  - 3.1 Missing Data  
+  - 3.2 Data Conversion  
+  - 3.3 Data Normalization  
+  - 3.4 Feature extraction  
+    - 3.4.1 Information in the FEN Notation  
+    - 3.4.2 Information from the Game Position (General)  
+    - 3.4.3 Information that Stockfish uses (Simplified)  
+  - 3.5 Feature selection  
+- 4. EDA (exploratory data analysis)  
+- 5. Model selection  
+- 6. Model training and testing  
+  - 6.1 Metric selection  
+  - 6.2 Hyperparameter Tuning  
+- 7. Model evaluation  
+  - 7.1 XGBRegressor - Ensemble  
+  - 7.2 KerasRegressor - Neural Network (Tensorflow)  
+  - 7.3 Analysis of Results  
+- 8. Conclusion  
+- References  
+  - Additional Resources  
